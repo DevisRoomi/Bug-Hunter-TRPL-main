@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" fill="none">
+    <rect width="120" height="120" rx="16" fill="#FEFCE8"/>
+    <!-- Light Beam -->
+    <path d="M42 38L18 20L28 10L52 28L42 38Z" fill="#FDE047" opacity="0.6"/>
+    <path d="M36 44L10 32L18 22L44 34L36 44Z" fill="#FEF08A" opacity="0.4"/>
+    <!-- Flashlight Head -->
+    <path d="M40 36L48 28L60 40L52 48L40 36Z" fill="#475569"/>
+    <path d="M38 34L46 26L49 29L41 37L38 34Z" fill="#94A3B8"/>
+    <!-- Flashlight Body -->
+    <rect x="52" y="42" width="46" height="16" rx="3" transform="rotate(45 52 42)" fill="#334155" stroke="#1E293B" stroke-width="2"/>
+    <!-- Grip lines -->
+    <line x1="64" y1="56" x2="72" y2="64" stroke="#64748B" stroke-width="2"/>
+    <line x1="69" y1="61" x2="77" y2="69" stroke="#64748B" stroke-width="2"/>
+    <line x1="74" y1="66" x2="82" y2="74" stroke="#64748B" stroke-width="2"/>
+    <!-- Switch -->
+    <rect x="54" y="44" width="8" height="4" rx="1" transform="rotate(45 54 44)" fill="#EF4444"/>
+    <!-- Flashlight Base -->
+    <circle cx="89" cy="85" r="4" fill="#1E293B"/>
+    <!-- Wrist Strap -->
+    <path d="M91 87C97 93 103 91 101 97C99 101 93 99 87 91" stroke="#94A3B8" stroke-width="2" stroke-linecap="round"/>
+</svg>
